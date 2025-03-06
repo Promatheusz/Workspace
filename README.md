@@ -19,8 +19,7 @@ Workspace/
 │   ├── Lessons_Learned/  
 │   ├── Useful_Information/  
 │  
-├── Docs/  
-│   ├── Guides/  
+├── Docs/   
 │   ├── Tutorials/  
 │   ├── References/  
 │  
